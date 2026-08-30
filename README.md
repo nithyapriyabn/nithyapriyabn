@@ -1,17 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithyapriya%20B%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Generative%20AI%20Enthusiast&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithyapriya%20B%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Generative%20AI%20Enthusiast&descAlignY=55&descSize=16" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&duration=3000\&pause=800\&color=58A6FF\&center=true\&vCenter=true\&multiline=false\&width=650\&lines=👋+Hey%2C+I'm+Nithyapriya!;💻+Building+Full+Stack+Web+Applications;🤖+Exploring+AI+%26+Generative+AI;🚀+Turning+Ideas+Into+Real+Projects)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/nithyapriya-b-n-1a5782391)
-[![GitHub](https://img.shields.io/badge/GitHub-nithyapriyabn-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/nithyapriyabn)
+<a href="https://linkedin.com/in/nithyapriya-b-n-1a5782391">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nithyapriyabn">
+<img src="https://img.shields.io/badge/GitHub-nithyapriyabn-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
-
----
 
 ## 🧑‍💻 About Me
 
